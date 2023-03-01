@@ -9,12 +9,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/446dba0833.js" crossorigin="anonymous"></script>
+
 </head>
 <body>
     <main class="main-content">
         <section class="left-section">
         <div class="left-content">
-       
+            
             <div class="perfil">
                 <img src="https://randomuser.me/api/portraits/women/26.jpg" alt="imagen de perfil de CV">
                 <h1 class="nombre">Carolyn Little</h1>
@@ -188,7 +189,7 @@
                             <li>Ingles: Avanzado</li>
             
                         </ul>
-            
+               
     
                     
 

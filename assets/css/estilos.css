@@ -47,12 +47,12 @@ body{
 .perfil img{
     width: 40%;
     border-radius: 50%; /*foto en circulo*/
-    margin-left: auto ; 
+    margin-left: 50% ; 
 
 }
 
 .nombre{
-    font-size: 32px ;
+    font-size: 24px ;
     color: white;
     text-align: center;
     text-transform: uppercase;
